@@ -1,0 +1,10 @@
+C:\Users\pshad\source\repos\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI\obj\Debug\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI.csprojAssemblyReference.cache
+C:\Users\pshad\source\repos\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI\obj\Debug\cehasz_1_1_PROJEKT_KOLKO_KRZYRZYK_NxN_AI.Form1.resources
+C:\Users\pshad\source\repos\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI\obj\Debug\cehasz_1_1_PROJEKT_KOLKO_KRZYRZYK_NxN_AI.Properties.Resources.resources
+C:\Users\pshad\source\repos\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI\obj\Debug\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI.csproj.GenerateResource.cache
+C:\Users\pshad\source\repos\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI\obj\Debug\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI.csproj.CoreCompileInputs.cache
+C:\Users\pshad\source\repos\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI\bin\Debug\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI.exe.config
+C:\Users\pshad\source\repos\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI\bin\Debug\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI.exe
+C:\Users\pshad\source\repos\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI\bin\Debug\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI.pdb
+C:\Users\pshad\source\repos\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI\obj\Debug\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI.exe
+C:\Users\pshad\source\repos\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI\obj\Debug\cehasz 1 1 PROJEKT KOLKO KRZYRZYK NxN AI.pdb
