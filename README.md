@@ -1,6 +1,6 @@
 # infinite_tic_tac_toe_C_Sharp
 
-i ve left this project in my trash files, i dont know why, source file is unfourtunetly lost ;-;
+simple algorithm, works fine, playable.
 
 ![1](https://user-images.githubusercontent.com/75178900/182256924-07e5eeda-b05c-4616-ba01-cd5dd657b337.JPG)
 
